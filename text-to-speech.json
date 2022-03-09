@@ -1,8 +1,8 @@
 [
   {
     "action": "talk",    
-    "text": "7 8 9 1 0 3 2 ภาษาไทย English language",
-    "language": "th-TH",
-    "style": 1
+    "text": "7 8 9 1 0 3 2 English language",
+    "language": "	en-US",
+    "style": 0
   }
 ]
